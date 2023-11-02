@@ -1,6 +1,5 @@
 # Projekt aplikacji obsługującej sieć sklepów
 
-
 Projekt wykonany w zespole 3-osobowym w ramach zajęć Systemy Baz Danych i Zaawansowane Techniki Programistyczne.
 
 Aplikacja obsługująca sieć sklepów, wraz z pracownikami, dostawcami, dowozami, produktami i zniżkami. 
